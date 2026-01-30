@@ -1,0 +1,13 @@
+what I have learned until now...
+
+1- I learn the diffrence between git(offline) and github(online)
+
+2- I learn the basic commands in the powershell
+
+3- I learn how to connect my project to Github 
+
+# I want to learn and practice more to achive my goals
+
+# thank you all 
+
+# all changes saved
